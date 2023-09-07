@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[90207],{19047:s=>{s.exports=JSON.parse('{"title":"Use cases","slug":"use_cases","permalink":"/langchain/docs/use_cases","navigation":{"next":{"title":"Question Answering","permalink":"/langchain/docs/use_cases/question_answering/"}}}')}}]);

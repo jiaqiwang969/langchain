@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[7214],{97150:t=>{t.exports=JSON.parse('{"title":"Get started","description":"Get started with LangChain","slug":"get_started","permalink":"/langchain/docs/get_started","navigation":{"next":{"title":"Introduction","permalink":"/langchain/docs/get_started/introduction"}}}')}}]);
